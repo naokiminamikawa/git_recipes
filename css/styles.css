@@ -229,3 +229,8 @@ article.index .lead {
 .back-link:hover {
   text-decoration: underline;
 }
+
+.recipe-image {
+  max-width: 300px;
+  height: auto;
+}
